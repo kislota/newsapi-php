@@ -4,7 +4,7 @@ A PHP client for the [News API](https://newsapi.org/docs/get-started).
 ### Installation
 Available for installation on packagist using composer.
 ```
-composer require jcobhams/newsapi
+composer require kislota/newsapi
 ```
 
 ### Usage
